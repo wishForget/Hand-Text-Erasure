@@ -14,3 +14,6 @@
 ## 使用方式
 pre_and_submit目录下为数据增强代码
 train目录下为训练代码
+
+## aistudio项目
+https://aistudio.baidu.com/aistudio/projectdetail/3439995
